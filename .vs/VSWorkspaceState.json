@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\public",
+    "\\client\\src",
+    "\\client\\src\\contracts",
+    "\\contracts",
+    "\\migrations",
+    "\\my-app",
+    "\\my-app\\public",
+    "\\test"
+  ],
+  "SelectedNode": "\\migrations",
+  "PreviewInSolutionExplorer": false
+}
