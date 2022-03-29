@@ -1,21 +1,27 @@
+pragma solidity >=0.2.5 <0.10.0;
+
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v3.0.0beta.0 (contracts/GSN/Context.sol)
+or
 // SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts (last updated v4.5.0) (token/ERC20/IERC20.sol)
 or
 // SPDX-License-Identifier: MIT
-// OpenZeppelin Contracts v4.4.1 (token/ERC20/utils/SafeERC20.sol)
+// OpenZeppelin Contracts v3.0.0beta.0 (contracts/math/SafeMath.sol)
 or
 // SPDX-License-Identifier: MIT
-// OpenZeppelin Contracts v3.0.0beta.0 (token/ERC20/utils/SafeERC20.sol)
+// OpenZeppelin Contracts v3.0.0beta.0 (contracts/token/ERC20/SafeERC20.sol)
 or
-pragma solidity ^0.8.0;
-and
-pragma solidity ^0.6.0;
-
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts (last updated v2.5.0) (utils/ReentrancyGuard.sol) ;
+;
 import "@openzeppelin/contracts/GSN/Context.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/math/SafeMath.sol";
 import "@openzeppelin/contracts/token/ERC20/SafeERC20.sol";
 import "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
+
+
 
 /**
  * @title Crowdsale
